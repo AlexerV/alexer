@@ -3,10 +3,7 @@
 ## About Me
 
 <p align="center">
-  <a href="https://github.com/AlexerV">
-    <img src="https://img.shields.io/badge/GitHub-AlexerV-0A0D14?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090b12" alt="GitHub" />
-  </a>
-
+  <a href="https://github.com/AlexerV"><img src="https://img.shields.io/badge/GitHub-AlexerV-0A0D14?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090b12" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Discord-.alexer-0A0D14?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=090b12" alt="Discord" />
 
 <!--
