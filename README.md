@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/GitHub-AlexerV-0A0D14?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090b12" alt="GitHub" />
   </a>
 
-  <img src="https://img.shields.io/badge/Discord-.alexer-0A0D14?style=for-the-badge&logo=discord&logoColor=8b5cf6&labelColor=090b12" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-.alexer-0A0D14?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=090b12" alt="Discord" />
 
 <!--
   <a href="https://discord.gg/{discord_URL}">
-    <img src="https://img.shields.io/badge/Discord-Join%20Us-0A0D14?style=for-the-badge&logo=discord&logoColor=8b5cf6&labelColor=090b12" alt="Discord Server" />
+    <img src="https://img.shields.io/badge/Discord-Join%20Us-0A0D14?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=090b12" alt="Discord Server" />
   </a>
 -->
 </p>
